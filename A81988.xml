@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods fearefvll ivdgement vpon divers cavaliers. Being a lamentable relation, the like was never read of, nor heard before: / Sent from Wolvercot a mile beyond Oxford, by the chyrurgion, Master Davis, to his friend in a letter, unto Master Filman, dwelling in Thames Stret. ; Also Gods heavy iudgements upon sundrie wicked persons in and about London, with their names and dwelling places, worthy to be read of all good Christians in the time of danger and trouble.</title>
+            <author>Davis, Thomas, Surgeon.</author>
+         </titleStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81988</idno><idno type="EEBO-CITATION">45578312</idno>
+  <idno type="VID">172247</idno>
+  <idno type="EEBO-PROQUEST">2240878885</idno>
+  
+            <idno type="STC">Wing D415A</idno>
+            <idno type="STC">ESTC R174452</idno>
+            <idno type="OCLC">45578312</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A81988)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172247)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2621:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods fearefvll ivdgement vpon divers cavaliers. Being a lamentable relation, the like was never read of, nor heard before: / Sent from Wolvercot a mile beyond Oxford, by the chyrurgion, Master Davis, to his friend in a letter, unto Master Filman, dwelling in Thames Stret. ; Also Gods heavy iudgements upon sundrie wicked persons in and about London, with their names and dwelling places, worthy to be read of all good Christians in the time of danger and trouble.</title>
+                  <author>Davis, Thomas, Surgeon.</author>
+                  <author>Filman, Master.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at London, for T. Vnderhill.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Judgment of God.</term>
+               <term type="topical_term">God --  Wrath.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172247:1"/>
+            <p>GODS FEAREFVLL IVDGEMENT VPON DIVERS CAVALIERS. BEING A Lamentable Relation, the like was never read of, nor heard before: Sent from <hi>Wolvercot</hi> a mile beyond <hi>Oxford,</hi> by the Chyrurgion, Master <hi>Davis,</hi> to his friend in a Letter, unto Master <hi>Filman,</hi> dwelling in <hi>Thames STRET.</hi>
+            </p>
+            <p>
+               <hi>Also Gods heavy Iudgements upon sundrie wicked persons in and about</hi> London, <hi>with their names and dwelling places, worthy to be read of all good Christi<g ref="char:EOLhyphen"/>ans in the time of danger and trouble.</hi>
+            </p>
+            <p>Printed at <hi>London,</hi> for <hi>T. Vnderhill.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172247:2"/>
+            <pb facs="tcp:172247:2"/>
+            <head>A true Relation of Gods heavie Iudgement upon a most wicked curser and Blaspheamer.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N <hi>Schooelane</hi> in <hi>London</hi> liveth one Mistres <hi>Letsum,</hi> which her neighbour having lost a small Ragge, which was a Dish-cloath, her neighbour chalen<g ref="char:EOLhyphen"/>ging her for it, she not considering who she was before, nor the iustice of the Lord, which is the rewarder of sin: for the Lord himselfe saith, that he will reward every man according to his deserts; so the Lord seeing the wickednesse of this woman, hee left her over to her selfe to worke her owne destructi<g ref="char:EOLhyphen"/>on both of body and soule, without the great mercy of God to put to his supporting his hand: for shee rashly and presumptuously, not having the feare of God before her eyes, fell a cursing in a most wicked manner, desiring that she might not alive if shee had not that dish-cloth: So according to her own wicked desire, the Lord in iustice laid the same affliction on her: for the first night her legges did swell as bigge as a bodies middle; and the next night they were as black as a shooe, and so remaine in a most wofull m<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nner to the terror and amazement of all the beholders. Now let us all looke to the Lords afflicting those that
+<pb facs="tcp:172247:3"/>transgresse, a reward for such a wicked blasphemous wretch, that knowing her conscience guilty of that fact, to call Gods vengeance on her head. Now let all good Christians petition the Lord to mollifie the heart of this woman, and give her a sight of her sins, and make her to know whom she hath offended, being the Lord of heaven and earth, giving her a heart of flesh, truely to repent for her sinnes, and that shee may become a new Creature, and likewise to bee a warning to all others to set a watch before their lips; and examine their owne Consciences before they speak: for this woman, knowing that in <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er owne Conscience shee was guilty, she called for a heavie vengeance of the Lord to fall upon her if shee had this small trifle: the thing was little, and therefore the greater was the sinne: shee, because she would have carryed it cleare to the view of the world, she thought there was no rewarder: but according as she deserved, so it came to passe, and at this time she doth rot as she liveth on the erath.</p>
+            <p>We have had many of these examples, but we can<g ref="char:EOLhyphen"/>not taken warning: as it lately fell <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut at the Sunne in <hi>Warwick,</hi> the bostesse of the house and her husband desired the devill to fetch them, if they had the soul<g ref="char:EOLhyphen"/>diers money: so accordingly as they desired it came to passe, for the devill presently seised on them before that great assembly. Also a main in <hi>Coventrie,</hi> that desired, that when shee married any other man but onely that souldier, the devill might fetch her alive that very day: So shee in the midst of her iollity, with her Bride-groom and the rest of her company,
+<pb facs="tcp:172247:3"/>he whom she desired might fetch her, came to lead her a dance, which was a terrible one to her, for he carried her from her Bridegroome to keep her wed<g ref="char:EOLhyphen"/>ding with him, which must needs prove most horrid and fearrful: So now we have the like example here, the Lord guide the hearts of all people else, that they may not presume to provoke so good a God as he is, slow to anger, but full of Iustice to punish sins, sins grown to its ful heigth, in the hearts of the peo<g ref="char:EOLhyphen"/>ple, for they neither regard God nor his punish<g ref="char:EOLhyphen"/>ments: but the Lord grant that we may all in gene<g ref="char:EOLhyphen"/>rall become new Creatures, and that these examples may worke a reformation in everie one of our hearts, that we may doe as the Apostle saith, <hi>Worke out our owne salvation with feare and trembling:</hi> and give us grace to make good use of all his afflictions, and that we may not fall into the like conditions of this Creature, that is under the cure of Mr. <hi>Simmons</hi> Chy<g ref="char:EOLhyphen"/>rurgion in <hi>Shue-lane,</hi> neare <hi>Harp-Ally:</hi> but there is small hope of cure, the Lord be merciful to her soul, and send that this affliction of her body may bee a reioycing of her soule, and grant as the body decayes, the soule may be strengthned in grace, and that shee may in this affliction lay hold on Christ her onely Saviour: for without which, there is no hope to bee looked for: for he is the strongest Fortresse that can be both for soule and body: God grant wee may all lay hold on him, that hee may be our shield and sure defence in all times of <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed, to Gods glorie, and the comfort of all in generall.</p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:172247:4"/>
+            <head>Here also followeth a true Relatian of another affliction that befell a Childe, who was burned in Spittle fields on Mun<g ref="char:EOLhyphen"/>day the <hi>14.</hi> of December, <hi>1642.</hi>
+            </head>
+            <p>ON Wednesday last happened a great mis<g ref="char:EOLhyphen"/>chance in a tenement in the <hi>Spittle Fields;</hi> A wicked wretch that is a Begger, and living of the almes of other good people, comming home, being wonderfully in drinke, went and made a great fire in her house, and fetched herselfe more drinke, till shee was so drunke that shee could neither goe nor stand, shee left a great fire burning, and her childe sitting by the same, and shee went to sleepe, never regarding her childe: for shee had so besotted her selfe with drinke, that shee knew not what shee did. The childe playing by the fire, fell with the face downward in the fire, not being able to helpe it selfe, burned with the fire, till some part of it was burned to Coles, the mother never hearing the cries of the childe, which wee may thinke was pitti<g ref="char:EOLhyphen"/>full. At last one of the neighbours came home, and entred the house, and was the sad Spectator of that most wofull and lamentable obiect, a heavy and dolefull sight to behold. The mother when shee a<g ref="char:EOLhyphen"/>waked, was not come to herselfe againe. A wofull
+<pb facs="tcp:172247:4"/>condition, that drinke should overcome any one so. God grant this may bee a warning to all other pa<g ref="char:EOLhyphen"/>rents, that they may prevent the like danger hereaf<g ref="char:EOLhyphen"/>ter. Thus you have a sad story here at home. God grant it may be the last; and so let all good people say, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <head>A true Relation of a fearfull example of Gods judge<g ref="char:EOLhyphen"/>ment upon some Cavaliers neere <hi>Oxford,</hi> who blasphemously cursing the Parliament, and calling them Round-headed Rogues, <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ust ell into the pit themselves they digged for others.</head>
+            <p>IT is very credibly reported, that divers Cavaliers of the Dammists, were very merry together; and one amongst the rest, swore, God damne him, he could make a Fire-worke that would kill, destroy, wound, and strike amazement into the Parliaments Round-headed Rogues, that with a Fire-worke of green glasse that <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e could make, which hee learned at <hi>Antwerp,</hi> hee would destroy a thousand Round-heads together, and swore, the Divell fetch him body and soule alive, and if hee did not put it in practice the next morning; which was done: then divers of the Cavaliers were met together, to see the event. And when the foresaid Cavalier had finished his project,
+<pb facs="tcp:172247:5"/>he would shew the event of it, the glasse broke, and kild him, and two more that were about him, and strucke another starke blinde, and wounded seven more, singing the haire from their heads and beards. And the Chyrurgion doth thinke they will hardly escape with life. This was credibly certified to Mr. <hi>Filman</hi> in <hi>Thames Street,</hi> by a letter sent to him from his friend the Chyrurgion, <hi>Thomas Davis.</hi>
+            </p>
+            <p>This was done in a Village about a mile beyond <hi>Oxford,</hi> the Villages name is <hi>Wolvercot,</hi> where these Cavaliers lay.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
